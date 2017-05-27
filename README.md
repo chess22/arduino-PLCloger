@@ -1,6 +1,6 @@
-### はじめに ###
+# はじめに
  生産や加工のための装置の頭脳である、PLCからarduinoを使用して情報を拾うために作成したプログラムです。
-### 詳細 ###
+# 詳細
 　出力端子での通電を検知します。
  http://www.geocities.jp/zattouka/GarageHouse/micon/circuit/pullup.htm
 ## 入力でのノイズへの対応
